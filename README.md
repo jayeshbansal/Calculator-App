@@ -1,7 +1,3 @@
-Based on your HTML, CSS, and JavaScript code, here's a professional project outline you can use on **LinkedIn**, **GitHub**, or your **resume**.
-
----
-
 ## 🧮 Calculator Web App (HTML, CSS & JavaScript)
 
 A responsive **Calculator Web Application** built using **HTML5, CSS3, and JavaScript**. The project performs basic arithmetic operations with a clean, user-friendly interface while implementing input validation and error handling to improve the overall user experience.
